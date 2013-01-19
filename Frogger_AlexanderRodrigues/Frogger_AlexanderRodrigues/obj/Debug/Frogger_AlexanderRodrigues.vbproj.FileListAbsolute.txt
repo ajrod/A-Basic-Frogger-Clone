@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.pdb
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.MainForm.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.Resources.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.pdb
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.YouDie.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.BeatLevel.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.GameOver.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.pdb
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.pdb
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.BeatLevel.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.GameOver.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.MainForm.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.Resources.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.YouDie.resources
+C:\Users\Administrator\Desktop\Visual Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.vbproj.GenerateResource.Cache
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.pdb
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.pdb
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\bin\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.BeatLevel.resources
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.GameOver.resources
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.MainForm.resources
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.Resources.resources
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.YouDie.resources
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.vbproj.GenerateResource.Cache
+C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.vbprojResolveAssemblyReference.cache
+C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.pdb
