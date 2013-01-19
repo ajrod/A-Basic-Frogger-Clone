@@ -13,7 +13,8 @@ You will need Microsoft Visual Studio, if you don't have it you can pick up the 
 "Microsoft Visual Studio Express VB". Open the .sln file in the repository (after cloning the repo), 
 then build and run the game.
 
-Alternatively, you can just play the game by running the executable in .../bin/Debug/Frogger_AlexanderRodrigues.
+Alternatively, you can just play the game by running the executable in 
+...Frogger_AlexanderRodrigues/bin/Debug/Frogger_AlexanderRodrigues.exe.
 
 Gameplay
 ------
