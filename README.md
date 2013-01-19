@@ -4,6 +4,9 @@ A-Basic-Frogger-Clone
 This is a Frogger Clone. It was my first real game I ever made (ages ago). It is written in Visual Basic and pretty well documented. 
 For those who want to start making games this may help you get started! 
 
+I made this game as an exercise for myself to learn Visual Basic and become familiar with the IDE, 
+Microsoft Visual Studio.
+
 Note: The art assets certainly aren't mine and I take no credit for them.
 
 How to run it
