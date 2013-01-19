@@ -40,3 +40,6 @@ C:\Users\Arod-Desktop\MyPrograms\Visual_Basic\Frogger_AlexanderRodrigues\Frogger
 C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.exe
 C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.xml
 C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.pdb
+C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.exe
+C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.xml
+C:\Users\Arod-Desktop\Desktop\A-Basic-Frogger-Clone\Frogger_AlexanderRodrigues\obj\Debug\Frogger_AlexanderRodrigues.pdb
