@@ -16,6 +16,9 @@ then build and run the game.
 Alternatively, you can just play the game by running the executable in 
 .../Frogger_AlexanderRodrigues/bin/Debug/Frogger_AlexanderRodrigues.exe.
 
+If you want to see the source the majority of the game logic is in 
+A-Basic-Frogger-Clone/Frogger_AlexanderRodrigues/Frogger_AlexanderRodrigues/Mainform.vb.
+
 Gameplay
 ------
 
