@@ -4,6 +4,9 @@ A-Basic-Frogger-Clone
 This is a Frogger Clone. It was my first real game I ever made (ages ago). It is written in Visual Basic and pretty well documented. 
 For those who want to start making games this may help you get started! 
 
+I made this game as an exercise for myself to learn Visual Basic and become familiar with the IDE, 
+Microsoft Visual Studio.
+
 Note: The art assets certainly aren't mine and I take no credit for them.
 
 How to run it
@@ -15,6 +18,9 @@ then build and run the game.
 
 Alternatively, you can just play the game by running the executable in 
 .../Frogger_AlexanderRodrigues/bin/Debug/Frogger_AlexanderRodrigues.exe.
+
+If you want to see the source the majority of the game logic is in 
+A-Basic-Frogger-Clone/Frogger_AlexanderRodrigues/Frogger_AlexanderRodrigues/Mainform.vb.
 
 Gameplay
 ------
